@@ -1,0 +1,63 @@
+.header {
+    width: 95%;
+    height: 30px;
+    margin: auto;
+    border: 1px solid red;
+}
+
+#icono {
+    float: left;
+    border: 1px solid lawngreen;
+    text-align: center;
+    margin-left: 1%;
+    margin-block-start: .4%;
+}
+
+#subtitulos {
+    float: right;
+    border: 1px solid rebeccapurple;
+    text-align: center;
+    margin-right: 1%;
+    margin-block-start: .4%;
+}
+
+section {
+    width: 95%;
+    margin: auto;
+    border: 1px solid green;
+}
+
+article {
+    width: 90%;
+    height: 15%;
+    margin-left: 5%;
+    margin-block-start: 2%;
+    border: 1px solid red;
+    text-align: center;
+}
+
+.titulo {
+    width: 10%;
+    height: 15%;
+    margin-left: 60%;
+    margin-block-start: 2%;
+    border: 1px solid red;
+    text-align: center;
+}
+
+#imagen {
+    float: left;
+    width: 15%;
+    height: 15%;
+    margin-left: 2%;
+    margin-top: 2%;
+    border: 1px solid red;
+    text-align: center;
+}
+
+.footer {
+    width: 95%;
+    height: 30px;
+    margin: auto;
+    border: 1px solid gray;
+}
