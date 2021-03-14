@@ -1,13 +1,13 @@
 .header {
-    width: 95%;
+    width: 5%;
     height: 30px;
     margin: auto;
-    border: 1px solid red;
+    border: 100px solid rgb(47, 0, 255);
 }
 
 #icono {
-    float: left;
-    border: 1px solid lawngreen;
+    float: right;
+    border: 1px solid rgb(248, 252, 0);
     text-align: center;
     margin-left: 1%;
     margin-block-start: .4%;
@@ -15,20 +15,20 @@
 
 #subtitulos {
     float: right;
-    border: 1px solid rebeccapurple;
+    border: 1px solid rgb(51, 150, 153);
     text-align: center;
     margin-right: 1%;
     margin-block-start: .4%;
 }
 
 section {
-    width: 95%;
+    width: 55%;
     margin: auto;
     border: 1px solid green;
 }
 
 article {
-    width: 90%;
+    width: 40%;
     height: 15%;
     margin-left: 5%;
     margin-block-start: 2%;
@@ -56,7 +56,7 @@ article {
 }
 
 .footer {
-    width: 95%;
+    width: 45%;
     height: 30px;
     margin: auto;
     border: 1px solid gray;
