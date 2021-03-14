@@ -1,14 +1,14 @@
 .header {
-    width: 95%;
+    width: 50%;
     height: 30px;
     margin: auto;
-    border: 1px solid red;
+    border: 2px solid rgb(35, 135, 192)));
 }
 
 #icono {
     float: left;
     border: 1px solid lawngreen;
-    text-align: center;
+    text-align: justify;
     margin-left: 1%;
     margin-block-start: .4%;
 }
@@ -39,9 +39,9 @@ article {
 .titulo {
     width: 15%;
     height: 15%;
-    margin-left: 60%;
+    margin-left: 80%;
     margin-block-start: 2%;
-    border: 1px solid red;
+    border: 1px solid greenyellow;
     text-align: center;
 }
 
