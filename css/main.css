@@ -1,16 +1,16 @@
 .header {
-    width: 5%;
+    width: 95%;
     height: 30px;
     margin: auto;
-    border: 100px solid rgb(47, 0, 255);
+    border: 1px solid red;
 }
 
 #icono {
-    float: right;
+    float: left;
     border: 1px solid rgb(248, 252, 0);
     text-align: center;
     margin-left: 1%;
-    margin-block-start: .4%;
+    margin-block-start: .5%;
 }
 
 #subtitulos {
@@ -18,17 +18,17 @@
     border: 1px solid rgb(51, 150, 153);
     text-align: center;
     margin-right: 1%;
-    margin-block-start: .4%;
+    margin-block-start: .5%;
 }
 
 section {
-    width: 55%;
+    width: 95%;
     margin: auto;
     border: 1px solid green;
 }
 
 article {
-    width: 40%;
+    width: 90%;
     height: 15%;
     margin-left: 5%;
     margin-block-start: 2%;
@@ -55,8 +55,12 @@ article {
     text-align: center;
 }
 
+h1 {
+    color: royalblue;
+}
+
 .footer {
-    width: 45%;
+    width: 95%;
     height: 30px;
     margin: auto;
     border: 1px solid gray;
